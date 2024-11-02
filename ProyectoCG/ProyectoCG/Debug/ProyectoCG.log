@@ -1,0 +1,19 @@
+﻿  PCGIHC.cpp
+C:\Users\brand\OneDrive\Escritorio\CG\Proyecto\ProyectoCG\ProyectoCG\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+C:\Users\brand\OneDrive\Escritorio\CG\Proyecto\ProyectoCG\ProyectoCG\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+C:\Users\brand\OneDrive\Escritorio\CG\Proyecto\ProyectoCG\ProyectoCG\PCGIHC.cpp(504,23): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\brand\OneDrive\Escritorio\CG\Proyecto\ProyectoCG\ProyectoCG\PCGIHC.cpp(510,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\brand\OneDrive\Escritorio\CG\Proyecto\ProyectoCG\ProyectoCG\PCGIHC.cpp(512,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\brand\OneDrive\Escritorio\CG\Proyecto\ProyectoCG\ProyectoCG\PCGIHC.cpp(611,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\brand\OneDrive\Escritorio\CG\Proyecto\ProyectoCG\ProyectoCG\PCGIHC.cpp(619,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\brand\OneDrive\Escritorio\CG\Proyecto\ProyectoCG\ProyectoCG\PCGIHC.cpp(627,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\brand\OneDrive\Escritorio\CG\Proyecto\ProyectoCG\ProyectoCG\PCGIHC.cpp(635,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\brand\OneDrive\Escritorio\CG\Proyecto\ProyectoCG\ProyectoCG\PCGIHC.cpp(643,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\brand\OneDrive\Escritorio\CG\Proyecto\ProyectoCG\ProyectoCG\PCGIHC.cpp(651,17): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\brand\OneDrive\Escritorio\CG\Proyecto\ProyectoCG\ProyectoCG\PCGIHC.cpp(659,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\brand\OneDrive\Escritorio\CG\Proyecto\ProyectoCG\ProyectoCG\PCGIHC.cpp(667,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\brand\OneDrive\Escritorio\CG\Proyecto\ProyectoCG\ProyectoCG\PCGIHC.cpp(676,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\brand\OneDrive\Escritorio\CG\Proyecto\ProyectoCG\ProyectoCG\PCGIHC.cpp(684,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\brand\OneDrive\Escritorio\CG\Proyecto\ProyectoCG\ProyectoCG\PCGIHC.cpp(692,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\brand\OneDrive\Escritorio\CG\Proyecto\ProyectoCG\ProyectoCG\PCGIHC.cpp(700,18): warning C4305: '=': truncamiento de 'double' a 'float'
+  ProyectoCG.vcxproj -> C:\Users\brand\OneDrive\Escritorio\CG\Proyecto\ProyectoCG\Debug\ProyectoCG.exe

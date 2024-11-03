@@ -28,6 +28,7 @@ Window::Window(GLint windowWidth, GLint windowHeight)
 	articulacion8 = 0.0f;
 	articulacion9 = 0.0f;
 	articulacion10 = 0.0f;
+	camara = 0.0f;
 	bandera = 0.0f;
 	bandera2 = 0.0f;
 	bandera3 = 0.0f;

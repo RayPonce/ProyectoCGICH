@@ -1,0 +1,23 @@
+﻿  PCGIHC.cpp
+C:\Users\rayo9\Documents\ScriptVS\ProyectoCG\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "PCGIHC.cpp")
+  
+C:\Users\rayo9\Documents\ScriptVS\ProyectoCG\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "PCGIHC.cpp")
+  
+C:\Users\rayo9\Documents\ScriptVS\ProyectoCG\PCGIHC.cpp(740,23): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\rayo9\Documents\ScriptVS\ProyectoCG\PCGIHC.cpp(749,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\rayo9\Documents\ScriptVS\ProyectoCG\PCGIHC.cpp(751,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\rayo9\Documents\ScriptVS\ProyectoCG\PCGIHC.cpp(857,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\rayo9\Documents\ScriptVS\ProyectoCG\PCGIHC.cpp(865,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\rayo9\Documents\ScriptVS\ProyectoCG\PCGIHC.cpp(873,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\rayo9\Documents\ScriptVS\ProyectoCG\PCGIHC.cpp(881,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\rayo9\Documents\ScriptVS\ProyectoCG\PCGIHC.cpp(889,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\rayo9\Documents\ScriptVS\ProyectoCG\PCGIHC.cpp(897,17): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\rayo9\Documents\ScriptVS\ProyectoCG\PCGIHC.cpp(905,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\rayo9\Documents\ScriptVS\ProyectoCG\PCGIHC.cpp(913,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\rayo9\Documents\ScriptVS\ProyectoCG\PCGIHC.cpp(922,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\rayo9\Documents\ScriptVS\ProyectoCG\PCGIHC.cpp(930,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\rayo9\Documents\ScriptVS\ProyectoCG\PCGIHC.cpp(938,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\rayo9\Documents\ScriptVS\ProyectoCG\PCGIHC.cpp(946,18): warning C4305: '=': truncamiento de 'double' a 'float'
+  ProyectoCG.vcxproj -> C:\Users\rayo9\Documents\ScriptVS\Debug\ProyectoCG.exe
